@@ -1,0 +1,7 @@
+codeset/.env
+*.jpg
+codeset/dataset
+
+#웹에서 제외할 폴더
+simple_web/node_modules
+
